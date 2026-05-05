@@ -10,7 +10,7 @@ namespace Accounting_System
     {
         static void Main(string[] args)
         {
-            add_expense(5000);
+            add_expense(1000);
         }
 
         static public void add_expense(int sum)
